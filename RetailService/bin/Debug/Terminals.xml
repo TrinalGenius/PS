@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<terminals>
+  <terminal port="COM1" terminalModelType="Ingenico_CA_005">22160881</terminal>
+  <terminal port="COM2" terminalModelType="Ingenico_CA_005">22160324</terminal>
+  <terminal port="COM3" terminalModelType="Ingenico_CA_005">22160325</terminal>
+</terminals>

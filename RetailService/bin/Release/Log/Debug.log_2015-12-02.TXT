@@ -1,0 +1,171 @@
+2015-12-02 19:11:04,141 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 19:11:04,558 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 19:11:07,163 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:11:09,436 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:11:09,440 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:11:09,696 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:11:09,697 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:11:09,752 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:11:09,755 [9] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-12-02 19:19:52,158 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 19:19:52,227 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 19:19:54,783 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:19:55,582 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:19:55,585 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:19:55,601 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:19:55,603 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:19:55,615 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:19:55,619 [10] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-12-02 19:20:10,969 [17] DEBUG coloredRichTextBoxAppender [(null)] - /
+2015-12-02 19:20:10,973 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:20:10,973 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:20:11,017 [16] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:20:11,018 [16] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:20:11,020 [16] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:20:21,272 [17] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 19:20:21,281 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:20:21,281 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:20:21,506 [16] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:20:21,509 [16] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:20:21,510 [16] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:20:28,028 [17] DEBUG coloredRichTextBoxAppender [(null)] - /retail/doTransaction
+2015-12-02 19:20:28,031 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:20:28,032 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:20:28,040 [16] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:20:28,041 [16] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:20:28,042 [16] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:21:50,972 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 19:21:51,041 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 19:21:52,192 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:21:53,010 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:21:53,013 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:21:53,029 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:21:53,030 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:21:53,043 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:21:53,046 [9] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-12-02 19:22:00,390 [18] DEBUG coloredRichTextBoxAppender [(null)] - /retail/doTransaction
+2015-12-02 19:22:00,395 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:00,395 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:22:00,404 [17] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:22:00,405 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:00,406 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:22:01,428 [18] DEBUG coloredRichTextBoxAppender [(null)] - /retail/doTransaction
+2015-12-02 19:22:01,432 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:01,432 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:22:01,439 [17] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:22:01,440 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:01,441 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:22:03,355 [18] DEBUG coloredRichTextBoxAppender [(null)] - /
+2015-12-02 19:22:03,359 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:03,360 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:22:03,367 [17] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:22:03,368 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:03,369 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:22:05,627 [18] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 19:22:05,635 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:05,636 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:22:05,645 [17] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:22:05,646 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:05,647 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:22:33,926 [11] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 19:22:33,997 [11] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 19:22:35,318 [11] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:22:36,129 [11] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:22:36,132 [11] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:22:36,147 [11] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:22:36,148 [11] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:22:36,165 [11] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:22:36,168 [11] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-12-02 19:22:40,947 [17] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 19:22:40,951 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:40,952 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:22:40,965 [18] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:22:40,966 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:22:40,967 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:24:16,222 [17] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 19:24:16,225 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:24:16,225 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:24:21,153 [18] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 19:24:21,157 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:24:21,158 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:24:34,118 [17] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 19:24:34,121 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:24:34,126 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:24:50,697 [18] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 19:24:50,702 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:24:50,704 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:24:50,715 [17] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:24:50,717 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:24:50,717 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:29:54,416 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 19:29:54,488 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 19:29:56,101 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:29:56,918 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:29:56,921 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:29:56,935 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:29:56,936 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:29:56,950 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:29:56,953 [10] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-12-02 19:31:28,525 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 19:31:28,594 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 19:31:30,148 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:31:30,968 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:31:30,971 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:31:30,997 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:31:31,002 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:31:31,012 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:31:31,016 [10] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-12-02 19:43:37,042 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 19:43:37,113 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 19:43:38,257 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:43:39,067 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:43:39,071 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:43:39,100 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:43:39,101 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:43:39,111 [10] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:43:39,115 [10] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-12-02 19:54:29,160 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 19:54:29,241 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 19:54:31,161 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:54:31,995 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:54:31,998 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:54:32,013 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:54:32,015 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 19:54:32,030 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 19:54:32,033 [9] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-12-02 19:54:33,214 [18] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 19:54:33,222 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:54:33,223 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 19:54:33,241 [17] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 19:54:33,242 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 19:54:33,243 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 20:01:57,232 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 20:01:57,302 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 20:01:58,840 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 20:01:59,674 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 20:01:59,677 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 20:01:59,692 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 20:01:59,693 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 20:01:59,709 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 20:01:59,713 [9] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-12-02 20:02:00,806 [17] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 20:02:00,811 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 20:02:00,812 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 20:02:00,828 [18] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 20:02:00,830 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 20:02:00,831 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 20:02:01,491 [17] DEBUG coloredRichTextBoxAppender [(null)] - /retail/test
+2015-12-02 20:02:01,496 [17] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 20:02:01,497 [17] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 20:02:01,512 [18] DEBUG coloredRichTextBoxAppender [(null)] - /favicon.ico
+2015-12-02 20:02:01,513 [18] DEBUG coloredRichTextBoxAppender [(null)] - 
+2015-12-02 20:02:01,514 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->
+2015-12-02 20:14:42,452 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-12-02 20:14:42,522 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-12-02 20:14:42,562 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 20:14:43,412 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 20:14:43,422 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 20:14:43,432 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 20:14:43,432 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-12-02 20:14:43,442 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-12-02 20:14:43,452 [9] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success

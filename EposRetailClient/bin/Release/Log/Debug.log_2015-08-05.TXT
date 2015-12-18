@@ -1,0 +1,36 @@
+2015-08-05 13:56:16,349 [9] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> '101'
+2015-08-05 13:56:16,398 [9] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-05 13:56:17,456 [9] DEBUG coloredRichTextBoxAppender [(null)] - receive 1 tables info
+2015-08-05 13:56:17,476 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, transactionURL->http://127.0.0.1:8080/retail/doTransaction?terminalID={0}&amount={1}&sequence={2}&asynchModel=true
+2015-08-05 13:56:17,477 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, name->101, amount->500.0000, terminalID->22160881, sequence->135617
+2015-08-05 13:56:18,615 [9] ERROR coloredRichTextBoxAppender [(null)] - System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+2015-08-05 13:56:18,620 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction result -> False
+2015-08-05 13:59:19,065 [8] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> '101'
+2015-08-05 13:59:19,113 [8] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-05 13:59:20,158 [8] DEBUG coloredRichTextBoxAppender [(null)] - receive 1 tables info
+2015-08-05 13:59:20,185 [8] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, transactionURL->http://127.0.0.1:8080/retail/doTransaction?terminalID={0}&amount={1}&sequence={2}&asynchModel=true
+2015-08-05 13:59:20,186 [8] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, name->101, amount->500.0000, terminalID->22160881, sequence->135920
+2015-08-05 13:59:21,326 [8] ERROR coloredRichTextBoxAppender [(null)] - System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+2015-08-05 13:59:21,331 [8] DEBUG coloredRichTextBoxAppender [(null)] - transaction result -> False

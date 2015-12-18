@@ -1,0 +1,87 @@
+2015-07-03 16:29:11,681 [1] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-07-03 16:29:12,041 [1] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-07-03 16:29:23,327 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:29:24,109 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - Authorized
+2015-07-03 16:29:24,109 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:29:24,849 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-07-03 16:29:24,849 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:29:25,545 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-07-03 16:31:49,662 [1] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-07-03 16:31:50,037 [1] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-07-03 16:31:52,163 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:31:52,929 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - Authorized
+2015-07-03 16:31:52,929 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:31:53,632 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-07-03 16:31:53,632 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:31:54,364 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-07-03 16:32:33,389 [1] INFO  coloredRichTextBoxAppender [(null)] - start transaction
+2015-07-03 16:33:24,246 [10] INFO  coloredRichTextBoxAppender [(null)] - RequestStatus: RequestSent
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - Status: Authorized
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - Amount: 1000
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - AuthCode: 005897
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - Total Amount: 1000
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - DateOfStart: STT 01/04
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - MerchantID: 540436505185116
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - PrimaryAccountNumber: PAN SEQ NO. 13
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - PrimaryAccountNumberSequence: ***************0010
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - TransactionDate: 2015/7/3 16:24:00
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - InputType: Inserted
+2015-07-03 16:33:24,262 [10] INFO  coloredRichTextBoxAppender [(null)] - NameOfCardScheme: MAESTRO     
+2015-07-03 16:33:24,277 [10] INFO  coloredRichTextBoxAppender [(null)] - DateOfExpiration: 
+2015-07-03 16:33:24,277 [10] INFO  coloredRichTextBoxAppender [(null)] - NameOfMerchant: PS Connect Demo          0208 962 3118
+2015-07-03 16:33:24,277 [10] INFO  coloredRichTextBoxAppender [(null)] - ReceiptID: TXN 0010
+2015-07-03 16:33:24,277 [10] INFO  coloredRichTextBoxAppender [(null)] - TerminalID: 22160881         
+2015-07-03 16:33:24,277 [10] INFO  coloredRichTextBoxAppender [(null)] - CardVerificationMethod: NotAvailable
+2015-07-03 16:33:24,277 [10] INFO  coloredRichTextBoxAppender [(null)] - RerferenceReceipt: 
+2015-07-03 16:40:50,391 [1] INFO  coloredRichTextBoxAppender [(null)] - start transaction
+2015-07-03 16:41:54,095 [28] INFO  coloredRichTextBoxAppender [(null)] - RequestStatus: RequestSent
+2015-07-03 16:41:54,110 [28] INFO  coloredRichTextBoxAppender [(null)] - Status: Authorized
+2015-07-03 16:41:54,110 [28] INFO  coloredRichTextBoxAppender [(null)] - Amount: 1000
+2015-07-03 16:41:54,110 [28] INFO  coloredRichTextBoxAppender [(null)] - AuthCode: 005898
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - Amount of Cash: 500
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - Total Amount: 1500
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - DateOfStart: STT 01/04
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - MerchantID: 540436505185116
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - PrimaryAccountNumber: PAN SEQ NO. 13
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - PrimaryAccountNumberSequence: ***************0010
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - TransactionDate: 2015/7/3 16:33:00
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - InputType: Inserted
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - NameOfCardScheme: MAESTRO     
+2015-07-03 16:41:54,126 [28] INFO  coloredRichTextBoxAppender [(null)] - DateOfExpiration: 
+2015-07-03 16:41:54,141 [28] INFO  coloredRichTextBoxAppender [(null)] - NameOfMerchant: PS Connect Demo          0208 962 3118
+2015-07-03 16:41:54,141 [28] INFO  coloredRichTextBoxAppender [(null)] - ReceiptID: TXN 0011
+2015-07-03 16:41:54,141 [28] INFO  coloredRichTextBoxAppender [(null)] - TerminalID: 22160881         
+2015-07-03 16:41:54,141 [28] INFO  coloredRichTextBoxAppender [(null)] - CardVerificationMethod: NotAvailable
+2015-07-03 16:41:54,141 [28] INFO  coloredRichTextBoxAppender [(null)] - RerferenceReceipt: 
+2015-07-03 16:45:36,105 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:45:36,136 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - AlreadySubscribed
+2015-07-03 16:45:36,136 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:45:36,836 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-07-03 16:45:36,851 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:45:37,514 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-07-03 16:46:09,903 [1] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-07-03 16:46:10,278 [1] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-07-03 16:46:12,036 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:46:12,801 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - Authorized
+2015-07-03 16:46:12,801 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:46:13,502 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-07-03 16:46:13,502 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-07-03 16:46:14,203 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-07-03 16:46:21,939 [1] INFO  coloredRichTextBoxAppender [(null)] - start transaction
+2015-07-03 16:46:53,949 [10] INFO  coloredRichTextBoxAppender [(null)] - RequestStatus: RequestSent
+2015-07-03 16:46:53,965 [10] INFO  coloredRichTextBoxAppender [(null)] - Status: Cancelled
+2015-07-03 16:46:53,965 [10] INFO  coloredRichTextBoxAppender [(null)] - Amount: 5000
+2015-07-03 16:46:53,965 [10] INFO  coloredRichTextBoxAppender [(null)] - DateOfStart: 
+2015-07-03 16:46:53,965 [10] INFO  coloredRichTextBoxAppender [(null)] - MerchantID: 
+2015-07-03 16:46:53,965 [10] INFO  coloredRichTextBoxAppender [(null)] - PrimaryAccountNumber: 
+2015-07-03 16:46:53,965 [10] INFO  coloredRichTextBoxAppender [(null)] - PrimaryAccountNumberSequence: 
+2015-07-03 16:46:53,965 [10] INFO  coloredRichTextBoxAppender [(null)] - TransactionDate: 0001/1/1 0:00:00
+2015-07-03 16:46:53,965 [10] INFO  coloredRichTextBoxAppender [(null)] - InputType: None
+2015-07-03 16:46:53,981 [10] INFO  coloredRichTextBoxAppender [(null)] - NameOfCardScheme: 
+2015-07-03 16:46:53,981 [10] INFO  coloredRichTextBoxAppender [(null)] - DateOfExpiration: 
+2015-07-03 16:46:53,981 [10] INFO  coloredRichTextBoxAppender [(null)] - NameOfMerchant: 
+2015-07-03 16:46:53,981 [10] INFO  coloredRichTextBoxAppender [(null)] - ReceiptID: 
+2015-07-03 16:46:53,981 [10] INFO  coloredRichTextBoxAppender [(null)] - TerminalID: 
+2015-07-03 16:46:53,981 [10] INFO  coloredRichTextBoxAppender [(null)] - CardVerificationMethod: NotAvailable
+2015-07-03 16:46:53,981 [10] INFO  coloredRichTextBoxAppender [(null)] - RerferenceReceipt: 
+2015-07-03 16:46:53,981 [10] INFO  coloredRichTextBoxAppender [(null)] - GemsNumber: 

@@ -1,0 +1,64 @@
+2015-08-04 14:21:37,850 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 14:21:38,489 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 14:22:08,014 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 14:22:08,263 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 14:57:09,319 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 14:57:09,557 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 14:57:47,120 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 14:57:47,357 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 15:23:53,518 [1] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 15:23:53,703 [1] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 15:23:55,218 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:23:57,880 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:23:57,884 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:23:57,904 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:23:57,905 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:23:57,927 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:23:57,946 [1] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-08-04 15:23:59,739 [8] DEBUG coloredRichTextBoxAppender [(null)] - /retail/doTransaction
+2015-08-04 15:23:59,745 [8] DEBUG coloredRichTextBoxAppender [(null)] - ?terminalID=22160881&amount=300.0000&sequence=152359&asynchModel=true
+2015-08-04 15:24:00,299 [10] INFO  coloredRichTextBoxAppender [(null)] - start transaction
+2015-08-04 15:25:14,029 [1] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 15:25:14,145 [1] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 15:25:15,284 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:25:15,442 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:25:15,445 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:25:15,460 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:25:15,462 [1] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:25:15,473 [1] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:25:15,476 [1] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-08-04 15:25:23,759 [10] DEBUG coloredRichTextBoxAppender [(null)] - /retail/doTransaction
+2015-08-04 15:25:23,763 [10] DEBUG coloredRichTextBoxAppender [(null)] - ?terminalID=22160881&amount=500.0000&sequence=152523&asynchModel=true
+2015-08-04 15:25:23,794 [11] INFO  coloredRichTextBoxAppender [(null)] - start transaction
+2015-08-04 15:28:15,953 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 15:28:16,185 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 15:28:19,055 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:28:21,085 [10] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:28:21,089 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:28:21,294 [10] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:28:21,296 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:28:21,549 [10] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:28:21,562 [10] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-08-04 15:28:33,340 [1] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 15:28:33,449 [1] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 15:28:41,391 [19] DEBUG coloredRichTextBoxAppender [(null)] - /retail/doTransaction
+2015-08-04 15:28:41,395 [19] DEBUG coloredRichTextBoxAppender [(null)] - ?terminalID=22160881&amount=22000.0000&sequence=152841&asynchModel=true
+2015-08-04 15:28:41,708 [7] INFO  coloredRichTextBoxAppender [(null)] - start transaction
+2015-08-04 15:39:57,159 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 15:39:57,407 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 15:39:59,057 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:40:00,437 [10] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:40:00,441 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:40:00,752 [10] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:40:00,767 [10] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-04 15:40:00,955 [10] INFO  coloredRichTextBoxAppender [(null)] - IsAuthenticated - TerminalInitializationFailed
+2015-08-04 15:40:00,960 [10] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-08-04 15:40:14,042 [17] DEBUG coloredRichTextBoxAppender [(null)] - /retail/doTransaction
+2015-08-04 15:40:14,046 [17] DEBUG coloredRichTextBoxAppender [(null)] - ?terminalID=22160881&amount=92000.0000&sequence=154013&asynchModel=true
+2015-08-04 15:40:14,245 [19] INFO  coloredRichTextBoxAppender [(null)] - start transaction
+2015-08-04 15:40:14,319 [19] INFO  coloredRichTextBoxAppender [(null)] - RequestStatus: UnSent
+2015-08-04 15:40:14,320 [19] INFO  coloredRichTextBoxAppender [(null)] - transactionResponse is NULL
+2015-08-04 15:41:13,615 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 15:41:13,877 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-04 15:41:38,465 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-04 15:41:38,702 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success

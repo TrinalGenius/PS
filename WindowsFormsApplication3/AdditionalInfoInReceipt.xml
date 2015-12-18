@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<receipt>
+  <top>
+    <line>TEL:</line>
+  </top>
+  <bottom>
+    <line>ADDRESS:</line>
+    <line>VAT:</line>
+    <line>TIPS:</line>
+  </bottom>
+</receipt>

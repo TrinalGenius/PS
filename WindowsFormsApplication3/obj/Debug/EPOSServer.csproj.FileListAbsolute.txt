@@ -1,0 +1,43 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EPOSServer.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\EPOSServer.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MainForm.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\EPOSServer.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\EPOSServer.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EPOSServer.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EPOSServer.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\EPOSServer.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\EPOSServer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AdditionalInfoInReceipt.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\PS.Terminal.Link.Bridge.dll
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\AdditionalInfoInReceipt.xml
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\PS.Terminal.Link.Bridge.dll
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\Terminals.xml
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\version.txt
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\log4net.config
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\EPOSServer.exe.config
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\EPOSServer.exe
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\EPOSServer.pdb
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\log4net.dll
+D:\work\paymensense\workspace\WindowsFormsApplication3\bin\Debug\log4net.xml
+D:\work\paymensense\workspace\WindowsFormsApplication3\obj\Debug\EPOSServer.csprojResolveAssemblyReference.cache
+D:\work\paymensense\workspace\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MainForm.resources
+D:\work\paymensense\workspace\WindowsFormsApplication3\obj\Debug\EPOSServer.Properties.Resources.resources
+D:\work\paymensense\workspace\WindowsFormsApplication3\obj\Debug\EPOSServer.csproj.GenerateResource.Cache
+D:\work\paymensense\workspace\WindowsFormsApplication3\obj\Debug\EPOSServer.exe
+D:\work\paymensense\workspace\WindowsFormsApplication3\obj\Debug\EPOSServer.pdb
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\AdditionalInfoInReceipt.xml
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\PS.Terminal.Link.Bridge.dll
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\Terminals.xml
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\version.txt
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\log4net.config
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\EPOSServer.exe.config
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\EPOSServer.exe
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\EPOSServer.pdb
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\log4net.dll
+D:\work\paymensense\PS\WindowsFormsApplication3\bin\Debug\log4net.xml
+D:\work\paymensense\PS\WindowsFormsApplication3\obj\Debug\EPOSServer.csprojResolveAssemblyReference.cache
+D:\work\paymensense\PS\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MainForm.resources
+D:\work\paymensense\PS\WindowsFormsApplication3\obj\Debug\EPOSServer.Properties.Resources.resources
+D:\work\paymensense\PS\WindowsFormsApplication3\obj\Debug\EPOSServer.csproj.GenerateResource.Cache
+D:\work\paymensense\PS\WindowsFormsApplication3\obj\Debug\EPOSServer.exe
+D:\work\paymensense\PS\WindowsFormsApplication3\obj\Debug\EPOSServer.pdb

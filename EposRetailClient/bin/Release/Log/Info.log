@@ -1,0 +1,4 @@
+2015-08-10 15:58:03,288 [8] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-10 15:58:36,221 [10] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-10 15:58:39,885 [10] INFO  coloredRichTextBoxAppender [(null)] - No TABLE INFO£¬PLEASE CHECK CONFIG->'RetailTableList'
+2015-08-10 15:59:21,724 [9] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 

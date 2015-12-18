@@ -1,0 +1,26 @@
+2015-08-05 13:23:57,857 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-05 13:23:58,097 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-05 13:24:02,678 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-05 13:24:04,959 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160881 IsAuthenticated - TerminalInitializationFailed
+2015-08-05 13:24:04,963 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-05 13:24:05,110 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160324 IsAuthenticated - TerminalInitializationFailed
+2015-08-05 13:24:05,112 [9] INFO  coloredRichTextBoxAppender [(null)] - ......
+2015-08-05 13:24:05,385 [9] INFO  coloredRichTextBoxAppender [(null)] - 22160325 IsAuthenticated - TerminalInitializationFailed
+2015-08-05 13:24:05,399 [9] INFO  coloredRichTextBoxAppender [(null)] - eposHttpServer start... success
+2015-08-05 13:24:49,384 [18] DEBUG coloredRichTextBoxAppender [(null)] - /retail/doTransaction
+2015-08-05 13:24:49,387 [18] DEBUG coloredRichTextBoxAppender [(null)] - ?terminalID=22160881&amount=500.0000&sequence=132449&asynchModel=true
+2015-08-05 13:24:49,387 [18] DEBUG coloredRichTextBoxAppender [(null)] - Request->?terminalID=22160881&amount=500.0000&sequence=132449&asynchModel=true
+2015-08-05 13:24:49,616 [18] DEBUG coloredRichTextBoxAppender [(null)] - doStransaction request:sequence->132449, terminalID->22160881, amount->500.0000, asynchModel->true
+2015-08-05 13:24:49,672 [18] DEBUG coloredRichTextBoxAppender [(null)] - doStransaction request:sequence->132449, result->SUCCESS
+2015-08-05 13:24:49,754 [10] INFO  coloredRichTextBoxAppender [(null)] - start transaction
+2015-08-05 13:24:49,793 [10] INFO  coloredRichTextBoxAppender [(null)] - Transaction->132449.amount: 500
+2015-08-05 13:24:49,798 [10] INFO  coloredRichTextBoxAppender [(null)] - RequestStatus: UnSent
+2015-08-05 13:24:49,799 [10] INFO  coloredRichTextBoxAppender [(null)] - Transaction->132449.transactionResponse is NULL
+2015-08-05 13:24:49,831 [10] DEBUG coloredRichTextBoxAppender [(null)] - doStransaction request:sequence->132449, result->{"amount":"500.0000","authCode":null,"sequence":"132449","status":null,"terminalID":"22160881","totalAmount":null}
+2015-08-05 13:57:34,007 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-05 13:57:34,220 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-05 13:58:42,341 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-05 13:58:42,555 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-08-05 13:58:42,557 [9] INFO  coloredRichTextBoxAppender [(null)] - http://127.0.0.1/a&b?c
+2015-08-05 13:59:45,950 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-08-05 13:59:46,164 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success

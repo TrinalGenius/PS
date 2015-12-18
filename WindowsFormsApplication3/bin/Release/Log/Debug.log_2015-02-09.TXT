@@ -1,0 +1,102 @@
+2015-02-09 21:01:58,762 [10] INFO  coloredRichTextBoxAppender [(null)] - inti log4net   ... success
+2015-02-09 21:01:58,906 [10] ERROR coloredRichTextBoxAppender [(null)] - test error
+2015-02-09 21:01:58,913 [10] INFO  coloredRichTextBoxAppender [(null)] - load app infos  ... success
+2015-02-09 21:01:58,933 [10] INFO  coloredRichTextBoxAppender [(null)] - additionalTopInfoOfReceipt.Count:1
+2015-02-09 21:01:58,934 [10] INFO  coloredRichTextBoxAppender [(null)] - additionalBottomInfoOfReceipt.Count:3
+2015-02-09 21:01:58,935 [10] INFO  coloredRichTextBoxAppender [(null)] - load additional infos of Receipt ... success
+2015-02-09 21:01:58,951 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-02-09 21:01:58,952 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-02-09 21:01:58,953 [10] INFO  coloredRichTextBoxAppender [(null)] - load server infos  ... success
+2015-02-09 21:01:58,955 [10] INFO  coloredRichTextBoxAppender [(null)] - load receipt image from file ... /Image/receipt.png
+2015-02-09 21:01:58,972 [10] INFO  coloredRichTextBoxAppender [(null)] - load receipt image  ... failure
+2015-02-09 21:02:00,668 [10] INFO  coloredRichTextBoxAppender [(null)] - connecting to database ... success
+2015-02-09 21:02:03,738 [10] DEBUG coloredRichTextBoxAppender [(null)] - Executing Subscribe.
+2015-02-09 21:02:05,508 [10] DEBUG coloredRichTextBoxAppender [(null)] - Port:18101; Terminalid:22160323 ... Authorized
+2015-02-09 21:02:05,519 [10] DEBUG coloredRichTextBoxAppender [(null)] - Port:18102; Terminalid:22160324 ... Authorized
+2015-02-09 21:02:05,524 [10] DEBUG coloredRichTextBoxAppender [(null)] - Port:18103; Terminalid:22160325 ... Authorized
+2015-02-09 21:02:05,525 [10] DEBUG coloredRichTextBoxAppender [(null)] - SubscribeResult End
+2015-02-09 21:02:05,525 [10] DEBUG coloredRichTextBoxAppender [(null)] - That took 00:00:01.7841020
+2015-02-09 21:02:05,525 [10] INFO  coloredRichTextBoxAppender [(null)] - start server ... success
+2015-02-09 21:02:47,899 [9] INFO  coloredRichTextBoxAppender [(null)] - inti log4net   ... success
+2015-02-09 21:02:47,962 [9] ERROR coloredRichTextBoxAppender [(null)] - test error
+2015-02-09 21:02:47,964 [9] INFO  coloredRichTextBoxAppender [(null)] - load app infos  ... success
+2015-02-09 21:02:47,981 [9] INFO  coloredRichTextBoxAppender [(null)] - additionalTopInfoOfReceipt.Count:1
+2015-02-09 21:02:47,982 [9] INFO  coloredRichTextBoxAppender [(null)] - additionalBottomInfoOfReceipt.Count:3
+2015-02-09 21:02:47,982 [9] INFO  coloredRichTextBoxAppender [(null)] - load additional infos of Receipt ... success
+2015-02-09 21:02:47,997 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-02-09 21:02:47,998 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-02-09 21:02:47,999 [9] INFO  coloredRichTextBoxAppender [(null)] - load server infos  ... success
+2015-02-09 21:02:48,001 [9] INFO  coloredRichTextBoxAppender [(null)] - load receipt image from file ... /Image/receipt.png
+2015-02-09 21:02:48,026 [9] INFO  coloredRichTextBoxAppender [(null)] - load receipt image  ... failure
+2015-02-09 21:02:49,087 [9] INFO  coloredRichTextBoxAppender [(null)] - connecting to database ... success
+2015-02-09 21:55:30,044 [10] INFO  coloredRichTextBoxAppender [(null)] - inti log4net   ... success
+2015-02-09 21:55:30,109 [10] ERROR coloredRichTextBoxAppender [(null)] - test error
+2015-02-09 21:55:30,112 [10] INFO  coloredRichTextBoxAppender [(null)] - load app infos  ... success
+2015-02-09 21:55:30,129 [10] INFO  coloredRichTextBoxAppender [(null)] - additionalTopInfoOfReceipt.Count:1
+2015-02-09 21:55:30,130 [10] INFO  coloredRichTextBoxAppender [(null)] - additionalBottomInfoOfReceipt.Count:3
+2015-02-09 21:55:30,130 [10] INFO  coloredRichTextBoxAppender [(null)] - load additional infos of Receipt ... success
+2015-02-09 21:55:30,149 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-02-09 21:55:30,150 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-02-09 21:55:30,151 [10] INFO  coloredRichTextBoxAppender [(null)] - load server infos  ... success
+2015-02-09 21:55:30,153 [10] INFO  coloredRichTextBoxAppender [(null)] - load receipt image from file ... /Image/receipt.png
+2015-02-09 21:55:30,175 [10] INFO  coloredRichTextBoxAppender [(null)] - load receipt image  ... failure
+2015-02-09 21:55:31,256 [10] INFO  coloredRichTextBoxAppender [(null)] - connecting to database ... success
+2015-02-09 22:11:14,826 [9] INFO  coloredRichTextBoxAppender [(null)] - inti log4net   ... success
+2015-02-09 22:11:14,890 [9] INFO  coloredRichTextBoxAppender [(null)] - load app infos  ... success
+2015-02-09 22:11:14,909 [9] INFO  coloredRichTextBoxAppender [(null)] - additionalTopInfoOfReceipt.Count:1
+2015-02-09 22:11:14,910 [9] INFO  coloredRichTextBoxAppender [(null)] - additionalBottomInfoOfReceipt.Count:3
+2015-02-09 22:11:14,911 [9] INFO  coloredRichTextBoxAppender [(null)] - load additional infos of Receipt ... success
+2015-02-09 22:11:14,927 [9] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-02-09 22:11:14,928 [9] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-02-09 22:11:14,929 [9] INFO  coloredRichTextBoxAppender [(null)] - load server infos  ... success
+2015-02-09 22:11:14,931 [9] INFO  coloredRichTextBoxAppender [(null)] - load receipt image from file ... /Image/receipt.png
+2015-02-09 22:11:14,955 [9] INFO  coloredRichTextBoxAppender [(null)] - load receipt image  ... failure
+2015-02-09 22:11:16,010 [9] INFO  coloredRichTextBoxAppender [(null)] - connecting to database ... success
+2015-02-09 22:19:57,248 [9] INFO  coloredRichTextBoxAppender [(null)] - inti log4net   ... success
+2015-02-09 22:21:22,014 [10] INFO  coloredRichTextBoxAppender [(null)] - inti log4net   ... success
+2015-02-09 22:21:22,084 [10] INFO  coloredRichTextBoxAppender [(null)] - load app infos  ... success
+2015-02-09 22:21:22,094 [10] INFO  coloredRichTextBoxAppender [(null)] - additionalTopInfoOfReceipt.Count:1
+2015-02-09 22:21:22,104 [10] INFO  coloredRichTextBoxAppender [(null)] - additionalBottomInfoOfReceipt.Count:3
+2015-02-09 22:21:22,104 [10] INFO  coloredRichTextBoxAppender [(null)] - load additional infos of Receipt ... success
+2015-02-09 22:21:22,114 [10] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-02-09 22:21:22,114 [10] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-02-09 22:21:22,114 [10] INFO  coloredRichTextBoxAppender [(null)] - load server infos  ... success
+2015-02-09 22:21:22,114 [10] INFO  coloredRichTextBoxAppender [(null)] - load receipt image from file ... /Image/receipt.png
+2015-02-09 22:21:22,144 [10] INFO  coloredRichTextBoxAppender [(null)] - load receipt image  ... failure
+2015-02-09 22:21:23,214 [10] INFO  coloredRichTextBoxAppender [(null)] - connecting to database ... success
+2015-02-09 22:21:25,234 [10] DEBUG coloredRichTextBoxAppender [(null)] - Executing Subscribe.
+2015-02-09 22:21:26,314 [10] DEBUG coloredRichTextBoxAppender [(null)] - Port:18101; Terminalid:22160323 ... Authorized
+2015-02-09 22:21:26,324 [10] DEBUG coloredRichTextBoxAppender [(null)] - Port:18102; Terminalid:22160324 ... Authorized
+2015-02-09 22:21:26,334 [10] DEBUG coloredRichTextBoxAppender [(null)] - Port:18103; Terminalid:22160325 ... Authorized
+2015-02-09 22:21:26,334 [10] DEBUG coloredRichTextBoxAppender [(null)] - SubscribeResult End
+2015-02-09 22:21:26,334 [10] DEBUG coloredRichTextBoxAppender [(null)] - That took 00:00:01.1000015
+2015-02-09 22:21:26,334 [10] INFO  coloredRichTextBoxAppender [(null)] - start server ... success
+2015-02-09 22:21:34,657 [1] INFO  coloredRichTextBoxAppender [(null)] - inti log4net   ... success
+2015-02-09 22:21:34,757 [1] INFO  coloredRichTextBoxAppender [(null)] - load app infos  ... success
+2015-02-09 22:21:34,767 [1] INFO  coloredRichTextBoxAppender [(null)] - additionalTopInfoOfReceipt.Count:1
+2015-02-09 22:21:34,767 [1] INFO  coloredRichTextBoxAppender [(null)] - additionalBottomInfoOfReceipt.Count:3
+2015-02-09 22:21:34,767 [1] INFO  coloredRichTextBoxAppender [(null)] - load additional infos of Receipt ... success
+2015-02-09 22:21:34,777 [1] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-02-09 22:21:34,777 [1] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-02-09 22:21:34,777 [1] INFO  coloredRichTextBoxAppender [(null)] - load server infos  ... success
+2015-02-09 22:21:34,777 [1] INFO  coloredRichTextBoxAppender [(null)] - load receipt image from file ... /Image/receipt.png
+2015-02-09 22:21:34,777 [1] INFO  coloredRichTextBoxAppender [(null)] - load receipt image  ... failure
+2015-02-09 22:21:35,875 [1] INFO  coloredRichTextBoxAppender [(null)] - connecting to database ... success
+2015-02-09 22:21:45,248 [1] DEBUG coloredRichTextBoxAppender [(null)] - Executing Subscribe.
+2015-02-09 22:21:45,604 [1] DEBUG coloredRichTextBoxAppender [(null)] - Port:18101; Terminalid:22160323 ... Authorized
+2015-02-09 22:21:45,614 [1] DEBUG coloredRichTextBoxAppender [(null)] - Port:18102; Terminalid:22160324 ... Authorized
+2015-02-09 22:21:45,624 [1] DEBUG coloredRichTextBoxAppender [(null)] - Port:18103; Terminalid:22160325 ... Authorized
+2015-02-09 22:21:45,624 [1] DEBUG coloredRichTextBoxAppender [(null)] - SubscribeResult End
+2015-02-09 22:21:45,624 [1] DEBUG coloredRichTextBoxAppender [(null)] - That took 00:00:00.3660008
+2015-02-09 22:21:45,624 [1] INFO  coloredRichTextBoxAppender [(null)] - start server ... success
+2015-02-09 22:21:55,532 [1] INFO  coloredRichTextBoxAppender [(null)] - inti log4net   ... success
+2015-02-09 22:21:55,604 [1] INFO  coloredRichTextBoxAppender [(null)] - load app infos  ... success
+2015-02-09 22:21:55,614 [1] INFO  coloredRichTextBoxAppender [(null)] - additionalTopInfoOfReceipt.Count:1
+2015-02-09 22:21:55,614 [1] INFO  coloredRichTextBoxAppender [(null)] - additionalBottomInfoOfReceipt.Count:3
+2015-02-09 22:21:55,614 [1] INFO  coloredRichTextBoxAppender [(null)] - load additional infos of Receipt ... success
+2015-02-09 22:21:55,624 [1] INFO  coloredRichTextBoxAppender [(null)] - Terminals.Count:3
+2015-02-09 22:21:55,624 [1] INFO  coloredRichTextBoxAppender [(null)] - load terminal infos  ... success
+2015-02-09 22:21:55,624 [1] INFO  coloredRichTextBoxAppender [(null)] - load server infos  ... success
+2015-02-09 22:21:55,634 [1] INFO  coloredRichTextBoxAppender [(null)] - load receipt image from file ... /Image/receipt.png
+2015-02-09 22:21:55,634 [1] INFO  coloredRichTextBoxAppender [(null)] - load receipt image  ... failure
+2015-02-09 22:21:56,666 [1] INFO  coloredRichTextBoxAppender [(null)] - connecting to database ... success

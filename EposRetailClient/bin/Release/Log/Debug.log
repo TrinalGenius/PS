@@ -1,0 +1,60 @@
+2015-08-10 15:58:03,230 [8] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> 101
+2015-08-10 15:58:03,288 [8] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-10 15:58:16,890 [8] DEBUG coloredRichTextBoxAppender [(null)] - receive 1 tables info
+2015-08-10 15:58:16,910 [8] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, transactionURL->http://127.0.0.1:8080/retail/doTransaction?terminalID={0}&amount={1}&sequence={2}&asynchModel=true
+2015-08-10 15:58:16,911 [8] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, name->101, amount->500.0000, terminalID->22160881, sequence->155816
+2015-08-10 15:58:18,259 [8] ERROR coloredRichTextBoxAppender [(null)] - System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetailClient\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetailClient\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+2015-08-10 15:58:18,264 [8] DEBUG coloredRichTextBoxAppender [(null)] - transaction result -> False
+2015-08-10 15:58:36,170 [10] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> 101
+2015-08-10 15:58:36,221 [10] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-10 15:58:36,362 [10] ERROR coloredRichTextBoxAppender [(null)] - System.ArgumentException: 不支持关键字: “datasource”。
+   在 System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   在 System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   在 System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   在 System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   在 System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   在 System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   在 EposRetailClient.implement.RetailClient.getCurrTables(Decimal currencyScale, String retailTableList) 位置 d:\work\EposRetailClient\EposRetailClient\EposRetailClient\implement\RetailClient.cs:行号 26
+System.ArgumentException: 不支持关键字: “datasource”。
+   在 System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   在 System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   在 System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   在 System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   在 System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   在 System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   在 EposRetailClient.implement.RetailClient.getCurrTables(Decimal currencyScale, String retailTableList) 位置 d:\work\EposRetailClient\EposRetailClient\EposRetailClient\implement\RetailClient.cs:行号 26
+2015-08-10 15:58:36,367 [10] DEBUG coloredRichTextBoxAppender [(null)] - receive 0 tables info
+2015-08-10 15:58:39,885 [10] INFO  coloredRichTextBoxAppender [(null)] - No TABLE INFO，PLEASE CHECK CONFIG->'RetailTableList'
+2015-08-10 15:59:21,676 [9] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> 101
+2015-08-10 15:59:21,724 [9] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-10 15:59:34,801 [9] DEBUG coloredRichTextBoxAppender [(null)] - receive 1 tables info
+2015-08-10 15:59:34,821 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, transactionURL->http://127.0.0.1:8080/retail/doTransaction?terminalID={0}&amount={1}&sequence={2}&asynchModel=true
+2015-08-10 15:59:34,821 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, name->101, amount->500.0000, terminalID->22160881, sequence->155934
+2015-08-10 15:59:35,964 [9] ERROR coloredRichTextBoxAppender [(null)] - System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetailClient\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetailClient\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+2015-08-10 15:59:35,969 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction result -> False

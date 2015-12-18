@@ -1,0 +1,72 @@
+2015-08-06 17:23:06,100 [9] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> '101'
+2015-08-06 17:23:06,150 [9] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-06 17:23:19,471 [9] DEBUG coloredRichTextBoxAppender [(null)] - receive 1 tables info
+2015-08-06 17:23:19,490 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, transactionURL->http://127.0.0.1:8080/retail/doTransaction?terminalID={0}&amount={1}&sequence={2}&asynchModel=true
+2015-08-06 17:23:19,491 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, name->101, amount->500.0000, terminalID->22160881, sequence->172319
+2015-08-06 17:23:20,648 [9] ERROR coloredRichTextBoxAppender [(null)] - System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+2015-08-06 17:23:20,654 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction result -> False
+2015-08-06 17:28:17,226 [10] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> '101'
+2015-08-06 17:28:17,275 [10] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-06 17:28:18,320 [10] DEBUG coloredRichTextBoxAppender [(null)] - receive 1 tables info
+2015-08-06 17:28:18,340 [10] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, transactionURL->http://127.0.0.1:8080/retail/doTransaction?terminalID={0}&amount={1}&sequence={2}&asynchModel=true
+2015-08-06 17:28:18,341 [10] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, name->101, amount->500.0000, terminalID->22160881, sequence->172818
+2015-08-06 17:28:19,484 [10] ERROR coloredRichTextBoxAppender [(null)] - System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+2015-08-06 17:28:19,489 [10] DEBUG coloredRichTextBoxAppender [(null)] - transaction result -> False
+2015-08-06 17:28:40,190 [10] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> 
+2015-08-06 17:28:40,240 [10] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-06 17:28:41,316 [10] DEBUG coloredRichTextBoxAppender [(null)] - receive 5 tables info
+2015-08-06 17:29:51,306 [10] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> 
+2015-08-06 17:29:51,355 [10] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-06 17:29:52,400 [10] DEBUG coloredRichTextBoxAppender [(null)] - receive 4 tables info
+2015-08-06 17:30:08,401 [10] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> 101
+2015-08-06 17:30:08,452 [10] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-06 17:30:09,505 [10] DEBUG coloredRichTextBoxAppender [(null)] - receive 1 tables info
+2015-08-06 17:30:09,525 [10] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, transactionURL->http://127.0.0.1:8080/retail/doTransaction?terminalID={0}&amount={1}&sequence={2}&asynchModel=true
+2015-08-06 17:30:09,526 [10] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, name->101, amount->500.0000, terminalID->22160881, sequence->173009
+2015-08-06 17:30:10,696 [10] ERROR coloredRichTextBoxAppender [(null)] - System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:8080
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 sven.common.https.HttpsUtils.getHttps(String url) 位置 d:\work\EposRetail\EposRetailClient\EposRetailClient\sven\common\https\HttpsUtils.cs:行号 25
+2015-08-06 17:30:10,701 [10] DEBUG coloredRichTextBoxAppender [(null)] - transaction result -> False
+2015-08-06 17:30:41,657 [10] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> 101
+2015-08-06 17:30:41,706 [10] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-06 17:30:42,753 [10] DEBUG coloredRichTextBoxAppender [(null)] - receive 1 tables info
+2015-08-06 17:30:42,773 [10] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, transactionURL->http://127.0.0.1:8080/retail/doTransaction?terminalID={0}&amount={1}&sequence={2}&asynchModel=true
+2015-08-06 17:30:42,774 [10] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, name->101, amount->500.0000, terminalID->22160881, sequence->173042
+2015-08-06 17:30:43,051 [10] DEBUG coloredRichTextBoxAppender [(null)] - transaction result -> True
+2015-08-06 17:30:55,214 [9] DEBUG coloredRichTextBoxAppender [(null)] - request tableList with currencyScale -> 100, retailTableList-> 101
+2015-08-06 17:30:55,264 [9] INFO  coloredRichTextBoxAppender [(null)] -  requested for table List 
+2015-08-06 17:30:56,307 [9] DEBUG coloredRichTextBoxAppender [(null)] - receive 1 tables info
+2015-08-06 17:30:56,327 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, transactionURL->http://127.0.0.1:8080/retail/doTransaction?terminalID={0}&amount={1}&sequence={2}&asynchModel=true
+2015-08-06 17:30:56,327 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction request, name->101, amount->500.0000, terminalID->22160881, sequence->173056
+2015-08-06 17:30:56,398 [9] DEBUG coloredRichTextBoxAppender [(null)] - transaction result -> True

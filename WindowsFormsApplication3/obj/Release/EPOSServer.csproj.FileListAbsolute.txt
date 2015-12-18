@@ -1,0 +1,27 @@
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPOSServer.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPOSServer.exe
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPOSServer.pdb
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.MainForm.resources
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.Properties.Resources.resources
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.csproj.GenerateResource.Cache
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.exe
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\AdditionalInfoInReceipt.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\PS.Terminal.Link.Bridge.dll
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPOSServer.exe.config
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.exe
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.pdb
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\AdditionalInfoInReceipt.xml
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\PS.Terminal.Link.Bridge.dll
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Terminals.xml
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPOSServer.exe
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPOSServer.pdb
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.csprojResolveAssemblyReference.cache
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.MainForm.resources
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.Properties.Resources.resources
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\EPOSServer.csproj.GenerateResource.Cache
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\log4net.dll
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\log4net.xml
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\log4net.config
+E:\paymensense\Epos\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\version.txt
