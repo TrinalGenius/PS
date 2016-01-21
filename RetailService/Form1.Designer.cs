@@ -62,6 +62,7 @@
             this.radioButton_stop.TabStop = true;
             this.radioButton_stop.Text = "Stop";
             this.radioButton_stop.UseVisualStyleBackColor = true;
+            this.radioButton_stop.CheckedChanged += new System.EventHandler(this.radioButton_stop_CheckedChanged);
             // 
             // radioButton_start
             // 

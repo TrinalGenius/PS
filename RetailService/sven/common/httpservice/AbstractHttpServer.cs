@@ -91,6 +91,8 @@ namespace sven.common.httpservice
         protected string _rootDirectory;
         protected HttpListener _listener;
         protected int _port;
+        protected bool isActived = false;
+
 
         public int Port
         {
@@ -127,15 +129,17 @@ namespace sven.common.httpservice
         /// </summary>
         public void Stop()
         {
-            _serverThread.Abort();
+            isActived = false;
             _listener.Stop();
+            _serverThread.Abort();
+
         }
          void Listen()
         {
             _listener = new HttpListener();
             _listener.Prefixes.Add("http://*:" + _port.ToString() + "/");
             _listener.Start();
-            while (true)
+            while (isActived)
             {
                 try
                 {
@@ -211,6 +215,7 @@ namespace sven.common.httpservice
 
         protected void Initialize(string path, int port)
         {
+            isActived = true;
             this._rootDirectory = path;
             this._port = port;
             _serverThread = new Thread(this.Listen);
