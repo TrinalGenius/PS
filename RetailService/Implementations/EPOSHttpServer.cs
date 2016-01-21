@@ -166,6 +166,7 @@ namespace implementations
                 jsonData.merchantID = transactionResponse.MerchantID;
                 jsonData.transactionDate = transactionResponse.TransactionDate.ToString();
                 jsonData.terminalID = transactionResponse.TerminalID;
+                jsonData.cardVerificationMethod = Convert.ToInt32(transactionResponse.CardVerificationMethod);
             }
 
             if ("Authorized".Equals(jsonData.authCode, StringComparison.InvariantCultureIgnoreCase))
@@ -200,6 +201,9 @@ namespace implementations
 
         [DataMember]
         public String sequence { get; set; }
+
+        [DataMember]
+        public int cardVerificationMethod { get; set; }
 
     }
 }

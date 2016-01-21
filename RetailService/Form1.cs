@@ -44,7 +44,7 @@ namespace RetailService
             setLog();
 
             FormLogUtils.getInstance().info("load terminal infos  ... " + (loadTerminalListForXML() ? "success" : "failure"));
-
+            StatementsListBox.Visible = false;
             radioButton_start.Checked = true;
 
         }
@@ -130,11 +130,24 @@ namespace RetailService
 
         private void radioButton_start_CheckedChanged(object sender, EventArgs e)
         {
-            startTerminalService();
 
-            StatusTimer.Enabled = true;
+            if(radioButton_start.Checked)
+            {
 
-            startEPOSHttpServer();
+                startTerminalService();
+
+                StatusTimer.Enabled = false;
+
+                startEPOSHttpServer();
+            }
+
+            if (radioButton_stop.Checked)
+            {
+
+                stopEPOSHttpServer();
+
+            }
+            
         }
 
         private void startEPOSHttpServer()
@@ -142,6 +155,8 @@ namespace RetailService
 
 
             httpServer = new EPOSHttpServer("/retail", Convert.ToInt16(ConfigurationManager.AppSettings["httpServerPort"]));
+
+            
 
             /*
             Thread thread = new Thread(new ThreadStart(httpServer.listen));
@@ -157,6 +172,7 @@ namespace RetailService
             if (httpServer != null)
             {
                 httpServer.Stop() ;
+                FormLogUtils.getInstance().info("eposHttpServer stop...plz wait 5 sec for the port release...");
             }
         }
 
@@ -187,6 +203,8 @@ namespace RetailService
 
         private void timer1_Tick(object sender, EventArgs e)
         {
+
+            return;
             StatementsListBox.Items.Clear();
 
             dynamic d = new PropertiesSettingWrapper();
@@ -198,6 +216,11 @@ namespace RetailService
                 var status = terminal.Value.GetDeviceStatus();
                 StatementsListBox.Items.Add(string.Format("Terminal : {0} -  Status : {1}", terminal.Key, status.ToString()));
             }
+        }
+
+        private void radioButton_stop_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
